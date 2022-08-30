@@ -24,7 +24,7 @@ overflow: hidden;
     background: black;
     display:flex;
     flex-direction:column;
-    aligh-items:center;
+    align-items:center;
 }
 
 .table-header{
