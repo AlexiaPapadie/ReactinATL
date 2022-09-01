@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/Song';
+
+export default {
+  title: 'slices/Song'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","version":"sktwi1xtmkfgx8626","items":[{}],"primary":{"album":"noted","cover":{"dimensions":{"width":900,"height":500},"alt":null,"copyright":null,"url":"https://images.unsplash.com/photo-1589321578146-4c1ba445cc88"},"songlink":{"link_type":"Web","url":"http://google.com"},"title":"waste"},"slice_type":"song","id":"_Default"}} />
+_Default.storyName = ''

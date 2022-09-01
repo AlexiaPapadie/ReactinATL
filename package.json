@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@prismicio/next": "^0.1.3"
+  }
+}
